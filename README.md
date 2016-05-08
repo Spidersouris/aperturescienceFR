@@ -2,6 +2,8 @@
 
 This project has been made by @Rudench and adapted by @xBytez and hosted by @xBytez on https://xbytez.eu/ with permission from the original author @Rudench.
 
+Translated in French by @Spidersouris.
+
 # FAQ
 
 * What's the license on this sofware?
