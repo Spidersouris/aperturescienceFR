@@ -16,7 +16,7 @@ var asciiart = {
     "9": ["                                     :X-", "                                  :X### ", "                                ;@####@ ", "                              ;M######X ", "                            -@########$ ", "                          .$##########@ ", "                         =M############-", "                        +##############$", "                      .H############$=. ", "         ,/:         ,M##########M;.    ", "      -+@###;       =##########M;       ", "   =%M#######;     :#########M/         ", "-$M###########;   :#########/           ", " ,;X###########; =########$.            ", "     ;H#########+#######M=              ", "       ,+##############+                ", "          /M#########@-                 ", "            ;M######%                   ", "              +####:                    ", "               ,$M-                     "],
     "8": ["                          .,---.        ", "                        ,/XM#MMMX;,     ", "                      -%##########M%,   ", "                     -@######%  $###@=  ", "      .,--,         -H#######$   $###M: ", "   ,;$M###MMX;     .;##########$;HM###X=", " ,/@##########H=      ;################+", "-+#############M/,      %##############+", "%M###############=      /##############:", "H################      .M#############;.", "@###############M      ,@###########M:. ", "X################,      -$=X#######@:   ", "/@##################%-     +######$-    ", ".;##################X     .X#####+,     ", " .;H################/     -X####+.      ", "   ,;X##############,       .MM/        ", "      ,:+$H@M#######M#$-    .$$=        ", "           .,-=;+$@###X:    ;/=.        ", "                  .,/X$;   .::,         ", "                      .,    ..          "]
 };
-var credits = [">LIST PERSONNEL", " ", " ", "Gautam Babbar", "Ted Backman", "Kelly Bailey", "Jeff Ballinger", "Aaron Barber", "Jeep Barnett", "Jeremy Bennett", "Dan Berger", "Yahn Bernier", "Ken Birdwell", "Derrick Birum", "Mike Blaszczak", "Iestyn Bleasdale-Shepherd", "Chris Bokitch", "Steve Bond", "Matt Boone", "Antoine Bourdon", "Jamaal Bradley", "Jason Brashill", "Charlie Brown", "Charlie Burgin", "Andrew Burke", "Augusta Butlin", "Julie Caldwell", "Dario Casali", "Chris Chin", "Jess Cliffe", "Phil Co", "John Cook", "Christen Coomer", "Greg Coomer", "Scott Dalton", "Kerry Davis", "Jason Deakins", "Joe Demers", "Ariel Diaz", "Quintin Doroquez", "Jim Dose", "Chris Douglass", "Laura Dubuk", "Mike Dunkle", "Mike Durand", "Mike Dussault", "Dhabih Eng", "Katie Engel", "Chet Faliszek", "Adrian Finol", "Bill Fletcher", "Moby Francke", "Stephane Gaudette", "Kathy Gehrig", "Vitaliy Genkin", "Paul Graham", "Chris Green", "Chris Grinstead", "John Guthrie", "Aaron Halifax", "Reagan Halifax", "Leslie Hall", "Jeff Hameluck", "Joe Han", "Don Holden", "Jason Holtman", "Gray Horsfield", "Keith Huggins", "Jim Hughes", "Jon Huisingh", "Brian Jacobson", "Lars Jensvold", "Erik Johnson", "Jakob Jungels", "Rich Kaethler", "Steve Kalning", "Aaron Kearly", "Iikka Keranen", "David Kircher", "Eric Kirchmer", "Scott Klintworth", "Alden Kroll", "Marc Laidlaw", "Jeff Lane", "Tim Larkin", "Dan LeFree", "Isabelle LeMay", "Tom Leonard", "Jeff Lind", "Doug Lombardi", "Bianca Loomis", "Richard Lord", "Realm Lovejoy", "Randy Lundeen", "Scott Lynch", "Ido Magal", "Nick Maggiore", "John McCaskey", "Patrick McClard", "Steve McClure", "Hamish McKenzie", "Gary McTaggart", "Jason Mitchell", "Mike Morasky", "John Morello II", "Bryn Moslow", "Arsenio Navarro", "Gabe Newell", "Milton Ngan", "Jake Nicholson", "Martin Otten", "Nick Papineau", "Karen Prell", "Bay Raitt", "Tristan Reidford", "Alfred Reynolds", "Matt Rhoten", "Garret Rickey", "Dave Riller", "Elan Ruskin", "Matthew Russell", "Jason Ruymen", "David Sawyer", "Marc Scaparro", "Wade Schin", "Matthew Scott", "Aaron Seeler", "Jennifer Seeley", "Taylor Sherman", "Eric Smith", "Jeff Sorensen", "David Speyrer", "Jay Stelly", "Jeremy Stone", "Eric Strand", "Kim Swift", "Kelly Thornton", "Eric Twelker", "Carl Uhlman", "Doug Valente", "Bill Van Buren", "Gabe Van Engel", "Alex Vlachos", "Robin Walker", "Joshua Weier", "Andrea Wicklund", "Greg Winkler", "Erik Wolpaw", "Doug Wood", "Matt T. Wood", "Danika Wright", "Matt Wright", "Shawn Zabecki", "Torsten Zabka ", " ", " ", " ", " ", "'Still Alive' by:", "Jonathan Coulton", " ", " ", " ", "Voices:", "Ellen McLain - GlaDOS, Turrets", "Mike Patton - THE ANGER SPHERE", " ", " ", " ", "Voice Casting:", "Shana Landsburg\Teri Fiddleman", " ", " ", " ", " ", "Voice Recording:", "Pure Audio, Seattle, WA", " ", " ", " ", " ", "Voice recording", "scheduling and logistics:", "Pat Cockburn, Pure Audio", " ", " ", " ", " ", "Translations:", "SDL", " ", " ", " ", " ", "Crack Legal Team:", "Liam Lavery", "Karl Quackenbush", "Kristen Boraas", "Kevin Rosenfield", "Alan Bruggeman", "Dennis Tessier", " ", " ", " ", "Thanks for the use of their face:", "Alesia Glidewell - Chell", " ", " ", " ", "Special thanks to everyone at:", "Alienware", "ATI", "Dell", "Falcon Northwest", "Havok", "SOFTIMAGE", "and Don Kemmis, SLK Technologies", " ", " ", " ", " ", " ", " ", " ", " ", " ", "THANK YOU FOR PARTICIPATING", "IN THIS", "ENRICHMENT CENTER ACTIVITY!!", " ", " ", " ", " ", " ", ""];
+var credits = [">LISTE DES EMPLOYÉS", " ", " ", "Gautam Babbar", "Ted Backman", "Kelly Bailey", "Jeff Ballinger", "Aaron Barber", "Jeep Barnett", "Jeremy Bennett", "Dan Berger", "Yahn Bernier", "Ken Birdwell", "Derrick Birum", "Mike Blaszczak", "Iestyn Bleasdale-Shepherd", "Chris Bokitch", "Steve Bond", "Matt Boone", "Antoine Bourdon", "Jamaal Bradley", "Jason Brashill", "Charlie Brown", "Charlie Burgin", "Andrew Burke", "Augusta Butlin", "Julie Caldwell", "Dario Casali", "Chris Chin", "Jess Cliffe", "Phil Co", "John Cook", "Christen Coomer", "Greg Coomer", "Scott Dalton", "Kerry Davis", "Jason Deakins", "Joe Demers", "Ariel Diaz", "Quintin Doroquez", "Jim Dose", "Chris Douglass", "Laura Dubuk", "Mike Dunkle", "Mike Durand", "Mike Dussault", "Dhabih Eng", "Katie Engel", "Chet Faliszek", "Adrian Finol", "Bill Fletcher", "Moby Francke", "Stephane Gaudette", "Kathy Gehrig", "Vitaliy Genkin", "Paul Graham", "Chris Green", "Chris Grinstead", "John Guthrie", "Aaron Halifax", "Reagan Halifax", "Leslie Hall", "Jeff Hameluck", "Joe Han", "Don Holden", "Jason Holtman", "Gray Horsfield", "Keith Huggins", "Jim Hughes", "Jon Huisingh", "Brian Jacobson", "Lars Jensvold", "Erik Johnson", "Jakob Jungels", "Rich Kaethler", "Steve Kalning", "Aaron Kearly", "Iikka Keranen", "David Kircher", "Eric Kirchmer", "Scott Klintworth", "Alden Kroll", "Marc Laidlaw", "Jeff Lane", "Tim Larkin", "Dan LeFree", "Isabelle LeMay", "Tom Leonard", "Jeff Lind", "Doug Lombardi", "Bianca Loomis", "Richard Lord", "Realm Lovejoy", "Randy Lundeen", "Scott Lynch", "Ido Magal", "Nick Maggiore", "John McCaskey", "Patrick McClard", "Steve McClure", "Hamish McKenzie", "Gary McTaggart", "Jason Mitchell", "Mike Morasky", "John Morello II", "Bryn Moslow", "Arsenio Navarro", "Gabe Newell", "Milton Ngan", "Jake Nicholson", "Martin Otten", "Nick Papineau", "Karen Prell", "Bay Raitt", "Tristan Reidford", "Alfred Reynolds", "Matt Rhoten", "Garret Rickey", "Dave Riller", "Elan Ruskin", "Matthew Russell", "Jason Ruymen", "David Sawyer", "Marc Scaparro", "Wade Schin", "Matthew Scott", "Aaron Seeler", "Jennifer Seeley", "Taylor Sherman", "Eric Smith", "Jeff Sorensen", "David Speyrer", "Jay Stelly", "Jeremy Stone", "Eric Strand", "Kim Swift", "Kelly Thornton", "Eric Twelker", "Carl Uhlman", "Doug Valente", "Bill Van Buren", "Gabe Van Engel", "Alex Vlachos", "Robin Walker", "Joshua Weier", "Andrea Wicklund", "Greg Winkler", "Erik Wolpaw", "Doug Wood", "Matt T. Wood", "Danika Wright", "Matt Wright", "Shawn Zabecki", "Torsten Zabka ", " ", " ", " ", " ", "'Still Alive' by:", "Jonathan Coulton", " ", " ", " ", "Voices:", "Ellen McLain - GlaDOS, Turrets", "Mike Patton - THE ANGER SPHERE", " ", " ", " ", "Voice Casting:", "Shana Landsburg\Teri Fiddleman", " ", " ", " ", " ", "Voice Recording:", "Pure Audio, Seattle, WA", " ", " ", " ", " ", "Voice recording", "scheduling and logistics:", "Pat Cockburn, Pure Audio", " ", " ", " ", " ", "Translations:", "SDL", " ", " ", " ", " ", "Crack Legal Team:", "Liam Lavery", "Karl Quackenbush", "Kristen Boraas", "Kevin Rosenfield", "Alan Bruggeman", "Dennis Tessier", " ", " ", " ", "Thanks for the use of their face:", "Alesia Glidewell - Chell", " ", " ", " ", "Special thanks to everyone at:", "Alienware", "ATI", "Dell", "Falcon Northwest", "Havok", "SOFTIMAGE", "and Don Kemmis, SLK Technologies", " ", " ", " ", " ", " ", " ", " ", " ", " ", "MERCI DE VOTRE PARTICIPATION", "AUX TESTS", "ORIGINELLEMENT CR\311\311 PAR RUDENCH ET XBYTEZ", "TRADUCTION R\311ALIS\311E PAR SPIDERSOURIS", "(TWITTER : @ENZOPIOU)", " ", " ", " ", ""];
 var lyrics = [{
     delay: "2.00",
     text: "Forms FORM-29827281-12:",
@@ -25,7 +25,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.00",
-    text: "Test Assessment Report",
+    text: "Rapport des tests",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -307,7 +307,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.35",
-    text: "Dear <<Subject Name Here>>,",
+    text: "Cher/Ch\350re <<Ins\351rer le nom du sujet ici>>,",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -421,7 +421,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.440",
-    text: "Et finalement \351e",
+    text: "Et finalement jet\351e",
     nonewline: 1,
     clear: 0,
     changepicture: -1
@@ -534,7 +534,7 @@ var lyrics = [{
     clear: 0,
     changepicture: -1
 }, {
-    delay: "1.440",
+    delay: "1.460",
     text: " l\340.",
     nonewline: 0,
     clear: 0,
@@ -576,25 +576,13 @@ var lyrics = [{
     clear: 0,
     changepicture: -1
 }, {
-    delay: "1.324",
+    delay: "4.70",
     text: "Partez et laissez-moi donc",
-    nonewline: 1,
-    clear: 0,
-    changepicture: -1
-}, {
-    delay: "0.627",
-    text: ".",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
-    delay: "1.788",
-    text: "",
-    nonewline: 1,
-    clear: 0,
-    changepicture: -1
-}, {
-    delay: "0.534",
+    delay: "1.934",
     text: "Je ",
     nonewline: 1,
     clear: 0,
@@ -606,19 +594,19 @@ var lyrics = [{
     clear: 0,
     changepicture: -1
 }, {
-    delay: "1.022",
+    delay: "0.022",
     text: "rester ",
     nonewline: 1,
     clear: 0,
     changepicture: -1
 }, {
-    delay: "0.232",
+    delay: "0.520",
     text: "seule ",
     nonewline: 1,
     clear: 0,
     changepicture: -1
 }, {
-    delay: "0.882",
+    delay: "1.882",
     text: "ici.",
     nonewline: 0,
     clear: 0,
@@ -630,19 +618,19 @@ var lyrics = [{
     clear: 0,
     changepicture: -1
 }, {
-    delay: "0.511",
+    delay: "1.511",
     text: "Vous",
     nonewline: 1,
     clear: 0,
     changepicture: -1
 }, {
-    delay: "2.972",
+    delay: "1.700",
     text: " trouverez peut-\352tre quelqu'un d'autre",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
-    delay: "1.254",
+    delay: "0.254",
     text: "pour vous aider.",
     nonewline: 0,
     clear: 0,
@@ -745,7 +733,7 @@ var lyrics = [{
     changepicture: 6
 }, {
     delay: "1.695",
-    text: "Je n'aimerais vraiment pas",
+    text: "Je n\u2019aimerais vraiment pas",
     nonewline: 0,
     clear: 0,
     changepicture: 1
