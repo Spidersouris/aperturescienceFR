@@ -4,4 +4,4 @@ This project has been made by @Rudench and adapted by @xBytez and hosted by @xBy
 
 Translated in French by @Spidersouris.
 
-For more infos, plus check the original repo: https://github.com/xBytez/aperturescience
+For more infos, please check the original repo: https://github.com/xBytez/aperturescience
